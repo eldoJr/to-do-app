@@ -10,9 +10,8 @@ A simple yet powerful **To-Do List application** built with **React**. This app 
 - **Interactive UI**: Smooth animations and modern design for an engaging user experience.
 
 ## Technologies Used
-- **React**: For building reusable UI components.
+- **ReactJS**: For building reusable UI components.
 - **CSS**: For styling the application.
-- **JavaScript**: For implementing app logic and interactivity.
 
 ## Installation
 
@@ -20,9 +19,10 @@ Follow these steps to set up the project on your local machine:
 
 ### Steps
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/eldoJr/to-do-app.git
    cd to-do-app
+```
 
 2. Install dependencies:
 ```bash
@@ -39,7 +39,7 @@ $ npm start # or yarn start
 http://localhost:3000
 ```
 License
-This project is licensed under the ![MIT License](/LICENSE.txt).
+This project is licensed under the [MIT License](/LICENSE.txt).
 
 ```bash
 $ git checkout <step-number>    # eg: git checkout step-1
